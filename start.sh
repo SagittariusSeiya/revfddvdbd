@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # configs
-AUUID=5ac3eda9-d9d6-4bf9-96c7-6f270dfe24be
+AUUID=90b6bb07-9d34-4f8f-af12-08fd64bd7beb
 CADDYIndexPage=https://github.com/StartBootstrap/startbootstrap-new-age/archive/master.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
